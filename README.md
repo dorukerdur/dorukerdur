@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**dorukerdur/dorukerdur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/dorukerdur">
+  <img src="assets/header.gif" width=500 height=400>
+</a>
 
-Here are some ideas to get you started:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmet-doruk-erdur-95894a192) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aderdur@gmail.com?subject=Hello%20Doruk,%20From%20Github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 🔭 I’m currently working at [FUPS](https://www.linkedin.com/company/fups/) as a Front-End Developer.
+- 🌱 I’m passionate about creating websites with using JavaScript frameworks and mostly working on [React](https://react.dev/) developing.
+- 📝 I’m aiming to add at least one commit per week on my GitHub Profile about [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/).
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to open source.
+
+<div align="center">
+
+## 💻 My Tech Stack:
+
+[![C++, CodePen, CSS, HTML, JavaScript, Next.js, React, Redux, TypeScript](https://skillicons.dev/icons?i=cpp,codepen,css,html,js,nextjs,react,redux,ts)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dorukerdur&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorukerdur&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
