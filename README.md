@@ -9,7 +9,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [FUPS](https://www.linkedin.com/company/fups/) as a Front-End Developer.
+- 🔭 I’m currently not working at [FUPS](https://www.linkedin.com/company/fups/) as a Front-End Developer.
 - 🌱 I’m passionate about creating websites with using JavaScript frameworks and mostly working on [React](https://react.dev/) developing.
 - 📝 I’m aiming to add at least one commit per week on my GitHub Profile about [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to open source.
